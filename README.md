@@ -124,4 +124,4 @@ Resposta esperada:
 4. Configure `SQL_CONNSTR` no portal em:
    Function App → Configuration → Application Settings
 5. O endpoint público ficará disponível em:
-   https://<seu-app>.azurewebsites.net/api/catalog/titles
+   https://andrederis.azurewebsites.net/api/catalog/titles
